@@ -6,15 +6,6 @@ Mirevya is a responsive makeup product website built using **HTML and CSS**, des
 
 🔗 [View Live Website](https://inthusha20241647-commits.github.io/mirevya-website/)
 
-## ✨ Features
-
-* 💄 Makeup product showcase
-* 🔍 Search bar
-* 🧭 Navigation menu
-* 📱 Responsive design
-* 🎨 Hover effects
-* 📞 Contact section
-
 ## 🛠️ Technologies
 
 * HTML5
