@@ -9,7 +9,7 @@ Mirevya is a beginner-friendly makeup product showcase website built using HTML5
 ## 📸 Preview
 
 <p align="center">
-  <img src="./images/preview.png" alt="Mirevya Website Preview" width="850">
+  <img src="./images/Mirevya.png" alt="Mirevya Website Preview" width="850">
 </p>
 
 ## ✨ Features
