@@ -6,6 +6,12 @@ Mirevya is a beginner-friendly makeup product showcase website built using HTML5
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge&logo=github)](https://inthusha20241647-commits.github.io/mirevya-website/)
 
+## 📸 Preview
+
+<p align="center">
+  <img src="./images/preview.png" alt="Mirevya Website Preview" width="850">
+</p>
+
 ## ✨ Features
 
 - 💄 **Product Showcase:** Displays makeup product images using individual content cards.
